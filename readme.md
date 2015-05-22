@@ -22,10 +22,7 @@ The device is based on the [paper](http://pubs.rsc.org/en/Content/ArticleLanding
 Assembly
 ------------------------
 
-[**UnderConstruction!!]**(http://guerreroceramics.com/wp-content/uploads/2015/02/construction.jpg)
-
-<img src="open2.JPG" style="width: 400px;"/>
-
+**UnderConstruction!!**
 
 
 
