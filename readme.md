@@ -19,30 +19,13 @@ The device is based on the [paper](http://pubs.rsc.org/en/Content/ArticleLanding
 
 
 ------------------------
-Design
+Assembly
 ------------------------
 
-
+**UnderConstruction!!**
 
 <img src="open2.JPG" style="width: 400px;"/>
 
-<img src="top-.JPG" style="width: 400px;"/>
-
-<img src="bottom.JPG" style="width: 400px;"/>
-
-**The yellow cylinders are ~5mm in diameter and 4mm in height**
-
-<img src="5.JPG" style="width: 400px;"/>
-
-<img src="pipette.JPG" style="width: 400px;"/>
-
-**PDMS flaps cover media exchange ports**
-
-<img src="close.JPG" style="width: 400px;"/>
-
-
-
-![alt text](flexcell6well.jpg "title")
 
 
 
