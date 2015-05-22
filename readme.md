@@ -1,9 +1,9 @@
-# Open Well Microfluidic Platform
+# Open Well Microfluidic Platform 
 A device for controlling dissolved gas environments in an open-well cell culture. 
 The device is based on the [paper](http://pubs.rsc.org/en/Content/ArticleLanding/2014/LC/c4lc01168f#!divAbstract) DOI: 10.1039/C4LC01168F
 # Experimental Setup
-01. Gas tank (Praxair) 
-02. Pressure regulator Fischer - Scientific
+01. Gas tank (Praxair) with the needed concentration of oxygen
+02. Pressure regulator [Fischer - Scientific](http://www.fishersci.com/ecomm/servlet/fsproductdetail_10652_761256__-1_0)
 03. [Push-to-Connect Tube Fitting for Air Straight Adapter, 1/4" Tube OD x 1/4 NPT Female](http://www.mcmaster.com/#5779k131/=x9bcop) for the pressure regulator to the tubing
     (Apply teflon tape to these connections-Like a plumber.)
 04. [High pressure tubing O.D..250 or 1/4 or 6.4 mm ID.159 or 4 mm.](http://www.mcmaster.com/#5648k25/=x9bcpj)
